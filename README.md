@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there , Its Lakshay Panwar ! 👋
+
+A developer who codes with passion, creates solutions!
+
+- 🖥 MERN Developer | 🌐 Open Source Contributor
+- 📚 Learning about Web3 and working on personal projects 🚀
+- 📫 Reach out to me at: lakshaypanwar77@gmail.com
+<!--🔗 Explore my latest project: vrplaced.ai-->
+
 
 <!--
 **lakshaypanwar7/lakshaypanwar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
